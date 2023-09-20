@@ -33,7 +33,6 @@
 
 + ## Greg Salisbury 
     + **Goals of last week:**
-      + 
     + **Progress and Issues:**
       + Follow Android Developers tutorial on SQLite for initial implementation of an SQLite Database
       + Need to learn basic app development within Android Studio
