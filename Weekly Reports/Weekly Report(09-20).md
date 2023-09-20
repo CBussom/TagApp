@@ -60,4 +60,3 @@
       + Start implementing the different settings I have learned to the actual application and start changing the layout around to make it more presentable and user friendly.
       + I want to learn how to make the app more compatible with different screen sizes(portrait and landscape) so it is more user friendly.
       + Learn how to do dark mode vs light mode because some users prefer one over another so having both can reel in more users.
-
