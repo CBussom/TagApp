@@ -3,15 +3,21 @@
 # *Team Report*
 
 ## Last Week's Goals:
-+ Last week's goals were to set up the game tab and history tab. Also we had the goal of finishing up the requirements report so we had a clear schedule to follow and we can get things done one by one.
+1. Finish the requirements report to have a basic schedule to follow to get each task done
+2. Set up the history tab
+3. Create the game tab
+4. Add the Tag Button
 
 ## Progress and Issues:
-+ Have found the code for bluetooth and started implementing it.
-+ Created the database and added information to the database.
++ Have a basic phone app set up in Adroid Studio for Teletag
++ Added a history tab
++ Added a game tab
 
 ## This Week's Goals
-1. Connect the database to the the history tab.
-2. Figure out how to detect the range of the players to determine if the tag button should be enabled or not.
+1. Set up database
+2. Create columns for players
+3. Find other devices using bluetooth
+4. Add a Tag button 
 
 # *Individual Team Contributions*
 
@@ -41,9 +47,13 @@
 
 + ## Mahima Abraham
     + **Goals of last week:**
-      + goals here
+      + Learn and become more familiar with Android Studio and Kotlin.
+      + Learn different ways to customize the application to improve the layout
     + **Progress and Issues:**
-      + progress and issues here
+      + I watched tutorials on Android Studio and Kotlin to learn and get familier with the IDE and language and did a few small projects to understand how to use Android Studios and Kotlin. 
+      + I created my own project with the phone application we have currently to play around with different settings of the app such as the layout, the different fonts, etc.
+      + I am not having many issues right now. The one issue I encountered and resolved was when I downloaded Android Studio and the application was not running the code and having our app pop. 
     + **Next Week's Goals:**
-      + goals here
+      + Start implementing the different settings I have learned to the actual application and start changing the layout around.
+      + 
 
