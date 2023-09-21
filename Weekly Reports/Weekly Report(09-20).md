@@ -12,7 +12,8 @@
 + Have a basic phone app set up in Adroid Studio for Teletag
 + We have added a history tab
 + We have added a game tab
-+ put any issues you are having here
++ The method used to connect to bluetooth has depreciated. We need to find a workaround or the new method of connecting to bluetooth
+  
 
 ## This Week's Goals
 1. We want to set up the database that stores players' information - Greg Salisbury
