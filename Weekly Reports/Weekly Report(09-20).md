@@ -25,11 +25,12 @@
 
 + ## Cameron Bussom
     + **Goals of last week:**
-      + goals here
+      + Create a simple interface to allow user to connect via bluetooth
     + **Progress and Issues:**
-      + progress and issues here
+      + A simple GUI was created
+      + Main Branch Created in GitHub
     + **Next Week's Goals:**
-      + goals here
+      + Add a Lobby and list to show bluetooth connections
 
 + ## Greg Salisbury 
     + **Goals of last week:**
@@ -43,11 +44,15 @@
 
 + ## Love-Divine Onwulata
     + **Goals of last week:**
-      + goals here
+      + Learn about Bluetooth implementation in Android Studios
     + **Progress and Issues:**
-      + progress and issues here
+      + Viewed Android Studios Bluetooth Documentation
+      + Learned about methods to use and permissions needed to use bluetooh
+      + Several vital methods are depreciated
     + **Next Week's Goals:**
-      + goals here
+      + Find a workaround to the depreciated method issue
+      + Prompt User to Use/Connect to Bluetooth
+      + Connect to Bluetooth if possible
 
 + ## Mahima Abraham
     + **Goals of last week:**
