@@ -1,5 +1,4 @@
 # This is the weekly report for this week - make the necessary changes
-#Testing out if the link works!
 # Weekly Status Reports - September 20, 2023
 
 # *Team Report*
