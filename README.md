@@ -15,3 +15,6 @@
 2. #### Have a map system that shows all the players within the proxitmity of the tagger. 
 
 # ***Layout of Git-Repo***
+1. #### We have a file called Weekly Reports to store the weekly updates due every Wednesday.
+2. #### We have two files called App and Idea which are the files containing our code to the phone app we have up and running at the moment.
+3. #### We have a README.md file that providies a basic description of our project idea and the goals we have with this project. It also provides a basic outline of our Github-repo. 
