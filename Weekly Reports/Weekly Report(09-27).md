@@ -64,8 +64,10 @@
       + Learn how to do dark mode vs light mode because some users prefer one over another so having both can reel in more users.
     + **Progress and Issues:**
       + Following another tutorial on how to create a good Android app using Android Studio and Kotlin so that I can understand the logic and be able to implement different things to make the app user friendly. 
-      + FIgured out how to implement dark mode for those who prefer dark over light mode. 
-      + 
-      + I am not having many issues right now. 
+      + Figured out how to implement dark mode for those who prefer dark over light mode. 
+      + Figured out how to implement portrait and landscape oritentations.
+      + Working on the tag button and it going hand in hand with Bluetooth.
+      + I am not having any issues as of right now. 
     + **Next Week's Goals:**
-
+      + Connect the history tab to the database.
+      + Connect the tag button to the Bluetooth connection, meaning if the player is in range the button is enabled or else disabled. 
