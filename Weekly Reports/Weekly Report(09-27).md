@@ -1,5 +1,5 @@
 # This is the weekly report for this week - make the necessary changes
-# Weekly Status Reports - September 20, 2023
+# Weekly Status Reports - September 27, 2023
 
 # *Team Report*
 
@@ -58,14 +58,14 @@
 
 + ## Mahima Abraham
     + **Goals of last week:**
-      + Learn and become more familiar with Android Studio and Kotlin.
-      + Learn different ways to customize the application to improve the layout
-    + **Progress and Issues:**
-      + I watched tutorials on Android Studio and Kotlin to learn and get familier with the IDE and language and did a few small projects to understand how to use Android Studios and Kotlin. 
-      + I created my own project with the phone application we have currently to play around with different settings of the app such as the layout, the different fonts, etc.
-      + I am not having many issues right now. The one issue I encountered and resolved was when I downloaded Android Studio and the application was not running the code and having our app pop up. 
-    + **Next Week's Goals:**
-      + Want to add a tag button to the game and have it go hand in hand with the bluetooth connection so we can enable/disbale the button depending on the player's range
+      + Want to add a tag button to the game and have it go hand in hand with the bluetooth connection so we can enable/disbale the button depending on the       player's range
       + Start implementing the different settings I have learned to the actual application and start changing the layout around to make it more presentable and user friendly.
       + I want to learn how to make the app more compatible with different screen sizes(portrait and landscape) so it is more user friendly.
       + Learn how to do dark mode vs light mode because some users prefer one over another so having both can reel in more users.
+    + **Progress and Issues:**
+      + Following another tutorial on how to create a good Android app using Android Studio and Kotlin so that I can understand the logic and be able to implement different things to make the app user friendly. 
+      + FIgured out how to implement dark mode for those who prefer dark over light mode. 
+      + 
+      + I am not having many issues right now. 
+    + **Next Week's Goals:**
+
