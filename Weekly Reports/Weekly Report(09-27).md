@@ -52,13 +52,12 @@
     + **Goals of last week:**
       + Learn about Bluetooth implementation in Android Studios
     + **Progress and Issues:**
-      + Viewed Android Studios Bluetooth Documentation
-      + Learned about methods to use and permissions needed to use bluetooh
-      + Several vital methods are depreciated
+      + Started Tutorial
+      + Added Dependencies Succesfully
     + **Next Week's Goals:**
-      + Find a workaround to the depreciated method issue
       + Prompt User to Use/Connect to Bluetooth
-      + Connect to Bluetooth if possible
+      + Scan For Bluetooth Devices
+      + Generate a list of found devices
 
 + ## Mahima Abraham
     + **Goals of last week:**
