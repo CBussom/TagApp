@@ -33,6 +33,10 @@
       + Main Branch Created in GitHub
     + **Next Week's Goals:**
       + Add a Lobby and list to show bluetooth connections
+      + learn more about creating the GUI
+      + rework some of the GUI to make the files/code more simple
+      + look into more bluetooth documentation
+      + learn about a possible way to remove players from a game using the GUI, possibly a leave game button
 
 + ## Greg Salisbury 
     + **Goals of last week:**
