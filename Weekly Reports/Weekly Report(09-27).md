@@ -30,6 +30,7 @@
       + Create a simple interface to allow user to connect via bluetooth
     + **Progress and Issues:**
       + A simple GUI was created
+      + GUI is sloppy could use some updating
       + Main Branch Created in GitHub
     + **Next Week's Goals:**
       + Add a Lobby and list to show bluetooth connections
