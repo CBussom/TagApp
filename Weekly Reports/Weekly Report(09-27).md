@@ -17,7 +17,7 @@
   
 
 ## This Week's Goals
-1. We want to set up the database that stores players' information - Greg Salisbury
+1. Create SQLite database - Greg Salisbury
 2. Create columns for players - Cameron Bussom
 3. Find other devices using bluetooth - Love-Divine Onwulata and Cameron Bussom
 4. Add a tag button and figure out how to have it enabled/disabled depending on the player's range - Mahima Abraham
@@ -36,11 +36,15 @@
 
 + ## Greg Salisbury 
     + **Goals of last week:**
-    + **Progress and Issues:**
       + Follow Android Developers tutorial on SQLite for initial implementation of an SQLite Database
       + Need to learn basic app development within Android Studio
       + Need to improve my understanding of the syntax of Kotlin
+    + **Progress and Issues:**
+      + Completed Basic App Development Tutorial First
+      + Did not devote enough time to get to SQLite Tutorial
+      + Basic App Development Tutorial did not cover much Kotlin, but will attempt to implement SQLite Database
     + **Next Week's Goals:**
+      + Complete Android Developers tutorial on SQLite
       + Start implementation of SQLite database within Teletag app
       + Construct the table for holding the desired player information
 
