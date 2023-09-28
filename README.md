@@ -6,9 +6,10 @@
 # ***Goals of the Project***
 1. #### Set up bluetooth to detect players range among other each other.
 2. #### Be able to connect to bluetooth devices and send data through them.
-3. #### Recognize devices that are currently in the game. 
-4. #### Create a database to store players information which will be connected to the leaderboard. 
-5. #### Create a leaderboard that displays players' losses, wins, and ranking.
+3. #### Recognize only devices that are currently in the game.
+4. #### be able to see the history of the game in a history tab
+5. #### Create a database to store players information which will be connected to the leaderboard. 
+6. #### Create a leaderboard that displays players' losses, wins, and ranking.
 
 # ***Stretch Goals of the Project***
 1. #### Have different game modes such as elimination round, multiple taggers, etc.
