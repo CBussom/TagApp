@@ -3,16 +3,18 @@
 # *Team Report*
 
 ## Last Week's Goals:
-1. Finish the requirements report to have a basic schedule to follow to get each task done
-2. Set up the history tab
-3. Create the game tab
-4. Add the Tag Button
+1. Get the Bluetooth up and running.
+2. Be able to detect other devices using Bluetooth.
+3. Start working with SQL Lite to set up the database.
+4. Make the GUI a bit more organized and cleaner than the version we have right now. 
 
 ## Progress and Issues:
 + Have a basic phone app set up in Adroid Studio for Teletag
 + We have added a history tab
 + We have added a game tab
 + The method used to connect to bluetooth has depreciated. We need to find a workaround or the new method of connecting to bluetooth
++ Have started following a tutorial on SQL Lite and figuring out how to set up the database to use for the game.
++ Have worked on cleaning up the GUI and making it more organized, just have not committed it to Github yet. 
   
 
 ## This Week's Goals
