@@ -73,9 +73,10 @@
       + I want to learn how to make the app more compatible with different screen sizes(portrait and landscape) so it is more user friendly.
       + Learn how to do dark mode vs light mode because some users prefer one over another so having both can reel in more users.
     + **Progress and Issues:**
-      + Have to finish up following the tutorial on Android Studio and Kotlin. 
-      + Continue working on the tag button and it going hand in hand with Bluetooth.
+      + Got through most of the tutorial for Kotlin and Android studio. 
+      + Did research on how to have the tag button and Bluetooth connection go hand in hand and have started working on trying to implement it on my own project before I make any permanent changes to the actual app. 
       + I am not having any issues as of right now. 
     + **Next Week's Goals:**
       + Connect the history tab to the database.
-      + Finish connecting the tag button to the Bluetooth connection, meaning if the player is in range the button is enabled or else disabled. 
+      + Finish connecting the tag button to the Bluetooth connection, meaning if the player is in range the button is enabled or else disabled and apply it to the actual app.
+      + Find more features to apply to the phone app to make it user friendly. 
