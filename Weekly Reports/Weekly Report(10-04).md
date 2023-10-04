@@ -14,15 +14,16 @@
 + We have added a game tab
 + The method used to connect to bluetooth has depreciated. We need to find a workaround or the new method of connecting to bluetooth
 + Have started following a tutorial on SQL Lite and figuring out how to set up the database to use for the game.
-+ Have worked on cleaning up the GUI and making it more organized, just have not committed it to Github yet. 
++ Have worked on cleaning up the GUI and making it more organized, just have not committed it to Github yet.
++ Still figuring out other aspects of Bluetooth and how to detect other devices with Bluetooth. 
   
 
 ## This Week's Goals
-1. Create SQLite database - Greg Salisbury
+1. Continue working on SQLite database - Greg Salisbury
 2. Create columns for players - Cameron Bussom
-3. Find other devices using bluetooth - Love-Divine Onwulata and Cameron Bussom
+3. Continue working on finding other devices using bluetooth - Love-Divine Onwulata and Cameron Bussom
 4. Add a tag button and figure out how to have it enabled/disabled depending on the player's range - Mahima Abraham
-5. Start implementing different settings/features to the app to make it more user friendly and to improve its layout - Mahima Abraham
+5. Start implementing different settings/features to the app(or test it out on my project) to make it more user friendly and to improve its layout - Mahima Abraham
 
 # *Individual Team Contributions*
 
