@@ -22,7 +22,7 @@
 1. Continue working on SQLite database - Greg Salisbury
 2. Create columns for players - Cameron Bussom
 3. Continue working on finding other devices using bluetooth - Love-Divine Onwulata and Cameron Bussom
-4. Add a tag button and figure out how to have it enabled/disabled depending on the player's range - Mahima Abraham
+4. Figure out how to have the tag button enabled/disabled depending on the player's range - Mahima Abraham
 5. Start implementing different settings/features to the app(or test it out on my project) to make it more user friendly and to improve its layout - Mahima Abraham
 
 # *Individual Team Contributions*
@@ -73,11 +73,9 @@
       + I want to learn how to make the app more compatible with different screen sizes(portrait and landscape) so it is more user friendly.
       + Learn how to do dark mode vs light mode because some users prefer one over another so having both can reel in more users.
     + **Progress and Issues:**
-      + Following another tutorial on how to create a good Android app using Android Studio and Kotlin so that I can understand the logic and be able to implement different things to make the app user friendly. 
-      + Figured out how to implement dark mode for those who prefer dark over light mode. 
-      + Figured out how to implement portrait and landscape oritentations.
-      + Working on the tag button and it going hand in hand with Bluetooth.
+      + Have to finish up following the tutorial on Android Studio and Kotlin. 
+      + Continue working on the tag button and it going hand in hand with Bluetooth.
       + I am not having any issues as of right now. 
     + **Next Week's Goals:**
       + Connect the history tab to the database.
-      + Connect the tag button to the Bluetooth connection, meaning if the player is in range the button is enabled or else disabled. 
+      + Finish connecting the tag button to the Bluetooth connection, meaning if the player is in range the button is enabled or else disabled. 
