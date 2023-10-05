@@ -42,17 +42,14 @@
 
 + ## Greg Salisbury 
     + **Goals of last week:**
-      + Follow Android Developers tutorial on SQLite for initial implementation of an SQLite Database
-      + Need to learn basic app development within Android Studio
-      + Need to improve my understanding of the syntax of Kotlin
-    + **Progress and Issues:**
-      + Completed Basic App Development Tutorial First
-      + Did not devote enough time to get to SQLite Tutorial
-      + Basic App Development Tutorial did not cover much Kotlin, but will attempt to implement SQLite Database
-    + **Next Week's Goals:**
       + Complete Android Developers tutorial on SQLite
       + Start implementation of SQLite database within Teletag app
       + Construct the table for holding the desired player information
+    + **Progress and Issues:**
+      + Still need to complete tutorial
+      + Once tutorial is completed, will start implementation and table construction
+    + **Next Week's Goals:**
+      + Test whether database is working within Teletag App
 
 + ## Love-Divine Onwulata
     + **Goals of last week:**
