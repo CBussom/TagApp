@@ -12,10 +12,9 @@
 + Have a basic phone app set up in Adroid Studio for Teletag
 + We have added a history tab
 + We have added a game tab
-+ The method used to connect to bluetooth has depreciated. We need to find a workaround or the new method of connecting to bluetooth
-+ Have started following a tutorial on SQL Lite and figuring out how to set up the database to use for the game.
-+ Have worked on cleaning up the GUI and making it more organized, just have not committed it to Github yet.
-+ Still figuring out other aspects of Bluetooth and how to detect other devices with Bluetooth. 
++ Progressed through Connecting to Bluetooth Tutorial
++ Issue with BluetoothDevice dataclass function in Kotlin
++ Started integration with SQLite database
   
 
 ## This Week's Goals
@@ -60,11 +59,10 @@
       + Learn about Bluetooth implementation in Android Studios
     + **Progress and Issues:**
       + Started Tutorial
-      + Added Dependencies Succesfully
+      + Dataclass method issue
+      + Found Github that implements bluetooth in Kotlin
     + **Next Week's Goals:**
-      + Prompt User to Use/Connect to Bluetooth
-      + Scan For Bluetooth Devices
-      + Generate a list of found devices
+      + Learn from other GitHub repo to implement bluetooth.
 
 + ## Mahima Abraham
     + **Goals of last week:**
