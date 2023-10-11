@@ -65,13 +65,16 @@
 
 + ## Mahima Abraham
     + **Goals of last week:**
-       + Connect the history tab to the database.
+       + Connect the history tab to the database once the database is set up. 
       + Finish connecting the tag button to the Bluetooth connection, meaning if the player is in range the button is enabled or else disabled and apply it to the actual app.
       + Find more features to apply to the phone app to make it user friendly. 
     + **Progress and Issues:**
-      + Still working on how to get the tag button go hand in hand with the bluetooth connection once the bluetooth is up and running. 
-      + Start working on the leaderboard and its layout and the type of data it will display(players' rank, wins, losses, etc.)
+      + Still working on how to get the tag button go hand in hand with the bluetooth connection once the bluetooth is up and running.
+      + Have started looking into how to implement to the leaderboard and display the data for the players to use.
+      + Currently have no issues.   
     + **Next Week's Goals:**
       + Connect the history tab to the database.
       + Finish connecting the tag button to the Bluetooth connection, meaning if the player is in range the button is enabled or else disabled and apply it to the actual app.
-      + Find more features to apply to the phone app to make it user friendly. 
+      + Start working on the leaderboard and its layout and the type of data it will display(players' rank, wins, losses, etc.)
+      + Continue finding more features to implement like giving players option to share their leaderboard with others, push notifications, etc. 
+
