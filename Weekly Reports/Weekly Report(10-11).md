@@ -24,8 +24,7 @@
 1. Continue working on SQLite database - Greg Salisbury
 2. Create columns for players - Cameron Bussom
 3. Get the BluetoothAdapter.startDiscovery() working so it can be used to scan for other devices  - Love-Divine Onwulata and Cameron Bussom
-4. Figure out how to have the tag button enabled/disabled depending on the player's range - Mahima Abraham
-5. Start implementing different settings/features to the app(or test it out on my project) to make it more user friendly and to improve its layout - Mahima Abraham
+5. Continue implementing different settings/features to the app(or test it out on my project) to make it more user friendly and to improve its layout - Mahima Abraham
 
 # *Individual Team Contributions*
 
@@ -66,14 +65,12 @@
 
 + ## Mahima Abraham
     + **Goals of last week:**
-      + Want to add a tag button to the game and have it go hand in hand with the bluetooth connection so we can enable/disbale the button depending on the       player's range
-      + Start implementing the different settings I have learned to the actual application and start changing the layout around to make it more presentable and user friendly.
-      + I want to learn how to make the app more compatible with different screen sizes(portrait and landscape) so it is more user friendly.
-      + Learn how to do dark mode vs light mode because some users prefer one over another so having both can reel in more users.
+       + Connect the history tab to the database.
+      + Finish connecting the tag button to the Bluetooth connection, meaning if the player is in range the button is enabled or else disabled and apply it to the actual app.
+      + Find more features to apply to the phone app to make it user friendly. 
     + **Progress and Issues:**
-      + Got through most of the tutorial for Kotlin and Android studio. 
-      + Did research on how to have the tag button and Bluetooth connection go hand in hand and have started working on trying to implement it on my own project before I make any permanent changes to the actual app. 
-      + I am not having any issues as of right now. 
+      + Still working on how to get the tag button go hand in hand with the bluetooth connection once the bluetooth is up and running. 
+      + Start working on the leaderboard and its layout and the type of data it will display(players' rank, wins, losses, etc.)
     + **Next Week's Goals:**
       + Connect the history tab to the database.
       + Finish connecting the tag button to the Bluetooth connection, meaning if the player is in range the button is enabled or else disabled and apply it to the actual app.
