@@ -14,17 +14,16 @@
 + We have added a history tab
 + We have added a game tab
 + Progressed through Connecting to Bluetooth Tutorial
-+ Issue with BluetoothDevice dataclass function in Kotlin
 + Started integration with SQLite database
 + Bluetooth is up and running and does not crash anymore
 + Bluetooth permissions have been handled
-+ The BluetoothAdapter.startDiscovery() is not currently working. 
++ The BluetoothAdapter.startDiscovery() is not currently working which is the function needed for finding other devices. 
   
 
 ## This Week's Goals
 1. Continue working on SQLite database - Greg Salisbury
 2. Create columns for players - Cameron Bussom
-3. Continue working on finding other devices using bluetooth - Love-Divine Onwulata and Cameron Bussom
+3. Get the BluetoothAdapter.startDiscovery() working so it can be used to scan for other devices  - Love-Divine Onwulata and Cameron Bussom
 4. Figure out how to have the tag button enabled/disabled depending on the player's range - Mahima Abraham
 5. Start implementing different settings/features to the app(or test it out on my project) to make it more user friendly and to improve its layout - Mahima Abraham
 
