@@ -44,14 +44,15 @@
 
 + ## Greg Salisbury 
     + **Goals of last week:**
-      + Complete Android Developers tutorial on SQLite
-      + Start implementation of SQLite database within Teletag app
-      + Construct the table for holding the desired player information
-    + **Progress and Issues:**
       + Still need to complete tutorial
       + Once tutorial is completed, will start implementation and table construction
+    + **Progress and Issues:**
+      + Looked into Bluetooth in an attempt to help Cameron and Love, but stopped when sufficient progress was made on Bluetooth
+      + Watched SQlite Kotlin Android Studio tutorial
+      + Will attempt writing SQLite code in Android Studio and make a table
     + **Next Week's Goals:**
-      + Test whether database is working within Teletag App
+      + Learn enough about SQLite in Android Studio to write code for SQLite tables
+      + Make Teletag Leaderboard table
 
 + ## Love-Divine Onwulata
     + **Goals of last week:**
