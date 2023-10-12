@@ -56,13 +56,14 @@
 
 + ## Love-Divine Onwulata
     + **Goals of last week:**
-      + Learn about Bluetooth implementation in Android Studios
+      + Scan for Devices
     + **Progress and Issues:**
-      + Started Tutorial
-      + Dataclass method issue
-      + Found Github that implements bluetooth in Kotlin
+      + Used Tutorial Repository to Scan for Bluetooth Devices
+      + Started implementing Tutorial Repository in project
     + **Next Week's Goals:**
-      + Learn from other GitHub repo to implement bluetooth.
+      + Finish implementing Tutorial Repo
+      + Start Connecting to Bluetooth Devices in Scanned List
+      + Look into if GPS if easier to use?
 
 + ## Mahima Abraham
     + **Goals of last week:**
