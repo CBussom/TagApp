@@ -32,15 +32,15 @@
     + **Goals of last week:**
       + Create a simple interface to allow user to connect via bluetooth
     + **Progress and Issues:**
-      + A simple GUI was created
+      + Have a working bluetooth version from a found project
       + GUI is sloppy could use some updating
     + **Next Week's Goals:**
       + Add a Lobby and list to show bluetooth connections
       + learn more about creating the GUI
-      + rework some of the GUI to make the files/code more simple
+      + Possibly modify the GUI on the working bluetooth code we found
       + look into more bluetooth documentation
-      + learn about a possible way to remove players from a game using the GUI, possibly a leave game 
-      BLUETOOTH WORKING HIGHEST PRIORITY
+      + learn more about a possible way to remove players from a game
+      + Finish merging bluetooth and found project
 
 + ## Greg Salisbury 
     + **Goals of last week:**
