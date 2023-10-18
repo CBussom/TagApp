@@ -17,8 +17,10 @@
 
 
 ## This Week's Goals
-1. Continue building up the new GUI similar to the one we have currently
-2. 
+1. Continue building up the new GUI similar to the one we have currently - Cameron Bussom
+2. Continue working on SQLite Database - Greg Salisbury
+3. Get the Bluetooth to scan for other devices - Love Divine Onwulata
+4. Figuring out how to connect the leaderboard to the database and display the players' info - Mahima Abraham
 
 # *Individual Team Contributions*
 
