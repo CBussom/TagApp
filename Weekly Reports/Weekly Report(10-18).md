@@ -3,7 +3,7 @@
 # *Team Report*
 
 ## Last Week's Goals:
-1. Continue working on SQLite database - Greg Salisbury
+1. Watch Android SQLite tutorial - Greg Salisbury
 2. Create columns for players - Cameron Bussom
 3. Get the BluetoothAdapter.startDiscovery() working so it can be used to scan for other devices  - Love-Divine Onwulata and Cameron Bussom
 5. Continue implementing different settings/features to the app(or test it out on my project) to make it more user friendly and to improve its layout - Mahima Abraham
@@ -40,15 +40,16 @@
 
 + ## Greg Salisbury 
     + **Goals of last week:**
-      + Still need to complete tutorial
-      + Once tutorial is completed, will start implementation and table construction
-    + **Progress and Issues:**
-      + Looked into Bluetooth in an attempt to help Cameron and Love, but stopped when sufficient progress was made on Bluetooth
-      + Watched SQlite Kotlin Android Studio tutorial
-      + Will attempt writing SQLite code in Android Studio and make a table
-    + **Next Week's Goals:**
       + Learn enough about SQLite in Android Studio to write code for SQLite tables
       + Make Teletag Leaderboard table
+    + **Progress and Issues:**
+      + Watched tutorial
+      + Need to start implementation of SQLite
+      + Helped Love dissect and get better understanding of BluetoothChat code
+      + Used my phone for some testing of Love's modification of BluetoothChat code to scan for devices
+    + **Next Week's Goals:**
+      + Have SQLite tutorial implementation complete
+      + Start plan for Teletag SQLite implementation
 
 + ## Love-Divine Onwulata
     + **Goals of last week:**
