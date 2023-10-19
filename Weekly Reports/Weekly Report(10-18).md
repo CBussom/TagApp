@@ -31,12 +31,11 @@
       + Have a working bluetooth version from a found project
       + GUI is sloppy could use some updating
     + **Next Week's Goals:**
-      + Add a Lobby and list to show bluetooth connections
+      + Create nicer GUI for found bluetooth project
       + learn more about creating the GUI
-      + Possibly modify the GUI on the working bluetooth code we found
+      + Make a play game section/button to show the bluetooth players connected and playing
       + look into more bluetooth documentation
-      + learn more about a possible way to remove players from a game
-      + Finish merging bluetooth and found project
+      + Find a way to test on iphone possibly
 
 + ## Greg Salisbury 
     + **Goals of last week:**
