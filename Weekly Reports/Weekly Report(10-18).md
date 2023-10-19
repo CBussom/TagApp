@@ -13,14 +13,19 @@
 + We have added a history tab
 + We have added a game tab
 + Have the Bluetooth up and running for the most part
++ Can Finally scan for bluetooth devices
++ Filter out unnessesary bluetooth devices
++ Display only Named Devices
 + Still working on getting the bluetooth to scan for other devices
 
 
 ## This Week's Goals
 1. Continue building up the new GUI similar to the one we have currently - Cameron Bussom
-2. Continue working on SQLite Database - Greg Salisbury
-3. Get the Bluetooth to scan for other devices - Love Divine Onwulata
-4. Figuring out how to connect the leaderboard to the database and display the players' info - Mahima Abraham
+2. Create a Game Screen - Cameron Bussom
+3. Continue working on SQLite Database - Greg Salisbury
+4. Get the Bluetooth to connect to other devices - Love Divine Onwulata
+5. Detect Proximity of Connected Bluetooth Devices - Love-Divine Onwulata
+6. Figuring out how to connect the leaderboard to the database and display the players' info - Mahima Abraham
 
 # *Individual Team Contributions*
 
@@ -56,10 +61,12 @@
     + **Progress and Issues:**
       + Used Tutorial Repository to Scan for Bluetooth Devices
       + Started implementing Tutorial Repository in project
+      + Scan successfully works
+      + Filters out unnessesary devices
     + **Next Week's Goals:**
-      + Finish implementing Tutorial Repo
-      + Start Connecting to Bluetooth Devices in Scanned List
-      + Look into if GPS if easier to use?
+      + Connect to Bluetooth Devices
+      + Remember Paired Devices for Game
+      + Detect Proximity of (Connected) Devices
 
 + ## Mahima Abraham
     + **Goals of last week:**
