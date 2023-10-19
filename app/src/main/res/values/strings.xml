@@ -1,6 +1,17 @@
 <resources>
-    <string name="app_name">TagApp</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="app_name">TRACK and SCAN</string>
+
+    <!-- Bottom Menu -->
+    <string name="map_opt">Map Tracking</string>
+    <string name="bluetooth_opt">Bluetooth Scan</string>
+
+    <!-- Bluetooth Page -->
+    <string name="bluetooth_desc_text">Connecting..</string>
+    <string name="filter_by_text">Filter by mac address…</string>
+    <string name="filter_btn">Filter</string>
+
+    <!-- Map Page -->
+    <string name="map_desc_text">Connecting..</string>
+
+
 </resources>
